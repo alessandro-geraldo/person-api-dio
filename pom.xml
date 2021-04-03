@@ -19,7 +19,7 @@
 	<properties>
 		<java.version>11</java.version>
 
-		<org.mapstruct.version> 1.4.2.final </org.mapstruct.version>
+		<org.mapstruct.version>1.4.2.final</org.mapstruct.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -76,11 +76,7 @@
 			</exclusions>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.projectlombok/lombok-mapstruct-binding -->
-		<dependency>
-			<groupId>org.projectlombok</groupId>
-			<artifactId>lombok-mapstruct-binding</artifactId>
-			<version>0.1.0</version>
-		</dependency>
+
 
 	</dependencies>
 
