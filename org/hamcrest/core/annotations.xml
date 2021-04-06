@@ -1,0 +1,7 @@
+<root>
+    <item name='org.hamcrest.core.IsInstanceOf org.hamcrest.Matcher&lt;T&gt; any(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;_-&gt;new&quot;"/>
+        </annotation>
+    </item>
+</root>
